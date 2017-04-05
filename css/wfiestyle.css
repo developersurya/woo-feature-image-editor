@@ -1,0 +1,50 @@
+.image-editor label {
+    width: 100%;
+    text-align: left;
+    display: inline-block;
+}
+
+.image-editor input {
+    width: 200px !important;
+}
+
+.nameval {
+    position: absolute;
+    top: 0;
+    left: 18%;
+    top: 5%;
+    font-size: 20px;
+    font-weight: bold;
+    width: 87px;
+    overflow: hidden;
+}
+
+.images {
+    text-align: center;
+}
+
+.numval {
+    position: absolute;
+    top: 0%;
+    left: 20%;
+    font-weight: bold;
+    font-size: 50px;
+    transform: scale(.8, 1.8);
+    margin-top: 100px;
+}
+
+.add-image-btn {
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.image-input-tr {
+    display: none;
+}
+
+.value .jscolor {
+    font-size: 10px !important;
+}
+.customcolordiv{
+	display: none;
+}
